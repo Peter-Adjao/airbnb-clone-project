@@ -1,5 +1,7 @@
-## 🏠 AirBnB Clone Project 
-This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings.
+# 🏠 AirBnB Clone Project
+
+A **full-stack clone** of the popular accommodation booking platform **AirBnB**.  
+This project aims to build a functional web application that allows users to **browse property listings**, **view detailed property information**, and **complete bookings**.  
 It covers **frontend development**, **backend APIs**, **database design**, and **deployment**.
 
 ---
@@ -71,12 +73,38 @@ The UI/UX design for the AirBnB Clone focuses on delivering a seamless, intuitiv
 - **User Authentication:** Secure login and sign-up options for personalized experiences and booking history.
 - **Favorites/Wishlist:** Ability for users to save properties for future reference.
 
+### **Color Styles**
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+### **Typography**
+- **Font Family:** Circular
+- **Font Weights:**
+  - **Medium (500)** for body text
+  - **Bold (700)** for headings
+  - **Book (400)** for secondary text
+- **Font Sizes:**
+  - Body text: `16px`
+  - Headings: `24px – 32px`
+  - Secondary text: `14px`
+
 ### **Primary Pages**
 | Page | Description |
 |------|-------------|
 | **Property Listing View** | Displays available properties in a grid layout with filters for price, location, amenities, and more. Provides quick access to property details. |
 | **Listing Detailed View** | Shows comprehensive property information including photos, amenities, reviews, host details, and a booking form. |
 | **Simple Checkout View** | Offers a streamlined payment and booking confirmation process with minimal steps, ensuring a fast and user-friendly experience. |
+
+### **Importance of Identifying Design Properties in a Mockup**
+Identifying design properties such as **color styles, typography, and layout** from a mockup ensures:
+- **Consistency** across all UI components, creating a unified brand experience.
+- **Efficient development**, as developers can directly reference predefined styles without guesswork.
+- **Accurate implementation** of the designer’s vision, reducing back-and-forth revisions.
+- **Better scalability**, since reusable styles make it easier to maintain and update the UI.
+- **Improved accessibility**, as proper color contrast and readable font sizes can be incorporated from the start.
 
 ### **Importance of a User-Friendly Design**
 In the competitive accommodation booking market, **user experience is a key differentiator**. A user-friendly design:
@@ -152,9 +180,7 @@ Ultimately, a well-designed booking system improves both **customer retention** 
 ---
 
 
-
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
