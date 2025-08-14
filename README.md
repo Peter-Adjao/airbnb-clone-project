@@ -1,8 +1,5 @@
 ## 🏠 AirBnB Clone Project 
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings.
-
-A **full-stack clone** of the popular accommodation booking platform **AirBnB**.  
-This project aims to build a functional web application that allows users to **browse property listings**, **view detailed property information**, and **complete bookings**.  
 It covers **frontend development**, **backend APIs**, **database design**, and **deployment**.
 
 ---
@@ -12,14 +9,14 @@ It covers **frontend development**, **backend APIs**, **database design**, and *
 - [Learning Objectives](#learning-objectives)
 - [Tech Stack](#tech-stack)
 - [Requirements](#requirements)
-  - [Project Initialization](#project-initialization)
-  - [UI/UX Design Planning](#uiux-design-planning)
-  - [Roles and Responsibilities](#roles-and-responsibilities)
-  - [UI Component Patterns](#ui-component-patterns)
+- [UI/UX Design Planning](#uiux-design-planning)
+- [Roles and Responsibilities](#roles-and-responsibilities)
+- [UI Component Patterns](#ui-component-patterns)
 - [Design Specifications](#design-specifications)
 - [Best Practices](#best-practices)
 - [Primary Pages](#primary-pages)
 - [Importance of User-Friendly Design](#importance-of-user-friendly-design)
+- [Tasks](#tasks)
 - [License](#license)
 
 ---
@@ -52,17 +49,46 @@ By completing this project, you will:
 
 ## 📌 Requirements
 
-### 1. Project Initialization
+### Project Initialization
 - Create a **public GitHub repository** named `airbnb-clone-project`
 - Include a **comprehensive README** (this file)
 
-### 2. UI/UX Design Planning
-- Document **design goals** and **key features**
-- Create **page descriptions** for main views
-- Analyze **Figma** design specifications
-- Identify **color schemes** and **typography**
+---
 
-### 3. Roles and Responsibilities
+## 🎨 UI/UX Design Planning
+
+### **Design Goals**
+The UI/UX design for the AirBnB Clone focuses on delivering a seamless, intuitive, and visually appealing booking experience. Our goals are to:
+- Create an **intuitive booking flow** that minimizes the number of steps for users to find and reserve a property.
+- Maintain **visual consistency** across all pages by adhering to a defined design system.
+- Ensure **fast loading times** for optimal performance on all devices.
+- Prioritize **mobile-first responsiveness** so that the platform is accessible and functional across different screen sizes.
+
+### **Key Features**
+- **Property Search and Filtering:** Users can search for properties and refine results based on location, price, amenities, and ratings.
+- **Detailed Property Viewing:** Full property descriptions, high-quality images, location maps, and user reviews.
+- **Secure Checkout Process:** A simple and safe booking and payment flow with order confirmation.
+- **User Authentication:** Secure login and sign-up options for personalized experiences and booking history.
+- **Favorites/Wishlist:** Ability for users to save properties for future reference.
+
+### **Primary Pages**
+| Page | Description |
+|------|-------------|
+| **Property Listing View** | Displays available properties in a grid layout with filters for price, location, amenities, and more. Provides quick access to property details. |
+| **Listing Detailed View** | Shows comprehensive property information including photos, amenities, reviews, host details, and a booking form. |
+| **Simple Checkout View** | Offers a streamlined payment and booking confirmation process with minimal steps, ensuring a fast and user-friendly experience. |
+
+### **Importance of a User-Friendly Design**
+In the competitive accommodation booking market, **user experience is a key differentiator**. A user-friendly design:
+- **Reduces friction** during the booking process, encouraging users to complete their reservations.
+- **Improves conversion rates** by providing a clear, easy-to-navigate interface.
+- **Enhances trust and satisfaction** through consistent, predictable interactions.
+- **Increases accessibility** for users of all abilities, ensuring compliance with WCAG guidelines.  
+Ultimately, a well-designed booking system improves both **customer retention** and **brand reputation**.
+
+---
+
+## 📋 Roles and Responsibilities
 | Role | Responsibilities |
 |------|------------------|
 | **Project Manager** | Oversees timeline, coordinates team, manages deliverables |
@@ -74,7 +100,9 @@ By completing this project, you will:
 | **Product Owner** | Defines requirements, prioritizes features |
 | **Scrum Master** | Facilitates agile processes, removes blockers |
 
-### 4. UI Component Patterns
+---
+
+## 🧩 UI Component Patterns
 - **Navbar**
   - Logo
   - Search bar
@@ -123,17 +151,10 @@ By completing this project, you will:
 
 ---
 
-## 💡 Importance of User-Friendly Design
-A well-designed booking system:
-- Reduces friction in the user journey
-- Increases conversion rates
-- Improves customer satisfaction  
-Key elements: **Clear navigation, intuitive interfaces, responsive design**
 
----
----
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
