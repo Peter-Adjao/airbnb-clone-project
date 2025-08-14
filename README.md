@@ -12,7 +12,7 @@ It covers **frontend development**, **backend APIs**, **database design**, and *
 - [Tech Stack](#tech-stack)
 - [Requirements](#requirements)
 - [UI/UX Design Planning](#uiux-design-planning)
-- [Roles and Responsibilities](#roles-and-responsibilities)
+- [Project Roles and Responsibilities](#project-roles-and-responsibilities)
 - [UI Component Patterns](#ui-component-patterns)
 - [Design Specifications](#design-specifications)
 - [Best Practices](#best-practices)
@@ -116,17 +116,18 @@ Ultimately, a well-designed booking system improves both **customer retention** 
 
 ---
 
-## 📋 Roles and Responsibilities
-| Role | Responsibilities |
-|------|------------------|
-| **Project Manager** | Oversees timeline, coordinates team, manages deliverables |
-| **Frontend Developers** | Implements UI components, ensures responsive design |
-| **Backend Developers** | Builds APIs, manages database, implements business logic |
-| **Designers** | Creates mockups, maintains design system, ensures UX quality |
-| **QA/Testers** | Writes test cases, performs testing, reports bugs |
-| **DevOps Engineers** | Manages deployment, CI/CD pipeline, server infrastructure |
-| **Product Owner** | Defines requirements, prioritizes features |
-| **Scrum Master** | Facilitates agile processes, removes blockers |
+## 👥 Project Roles and Responsibilities
+
+| Role | Key Responsibilities | Contribution to Project Success |
+|------|----------------------|--------------------------------|
+| **Project Manager** | Oversees the project timeline, coordinates team efforts, manages deliverables, and ensures alignment with goals. | Maintains organization, ensures deadlines are met, and keeps all members aligned with objectives. |
+| **Frontend Developers** | Build responsive UI components, implement interactivity, ensure design consistency, and handle state management. | Deliver a polished, user-friendly interface that matches the mockup specifications. |
+| **Backend Developers** | Create APIs, manage database architecture, implement business logic, and ensure data security. | Enable smooth and secure data flow between the client and server. |
+| **Designers** | Develop mockups, define design systems, and maintain brand consistency. | Translate ideas into visually appealing and intuitive interfaces. |
+| **QA/Testers** | Write test cases, execute tests, and report bugs to maintain product quality. | Prevent defects from reaching production and ensure a smooth user experience. |
+| **DevOps Engineers** | Handle deployment, CI/CD pipelines, and server infrastructure. | Ensure reliable and efficient delivery of application updates. |
+| **Product Owner** | Define requirements, prioritize features, and act as the bridge between stakeholders and the development team. | Ensure the final product meets user needs and business goals. |
+| **Scrum Master** | Facilitate agile processes, remove blockers, and organize sprint meetings. | Keep the development process efficient, collaborative, and adaptable. |
 
 ---
 
@@ -179,8 +180,5 @@ Ultimately, a well-designed booking system improves both **customer retention** 
 
 ---
 
-
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
-
----
